@@ -45,7 +45,7 @@ This animation can be used in:
 
 ## 📸 Preview
 ![Preview of  💖 InstaHeart-Click-Animation  ](images/README/Screenshot.png) 
-> 💡 Add a screenshot or screen recording here for better visualization.
+
 
 ## 🛠️ Setup Instructions
 
