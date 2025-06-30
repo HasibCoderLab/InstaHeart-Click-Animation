@@ -44,7 +44,7 @@ This animation can be used in:
 - Interactive UI designs
 
 ## 📸 Preview
-
+![Preview of  💖 InstaHeart-Click-Animation  ](images/README/Screenshot.png) 
 > 💡 Add a screenshot or screen recording here for better visualization.
 
 ## 🛠️ Setup Instructions
